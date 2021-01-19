@@ -15,6 +15,7 @@
         <module>msb-dongbao-mall-service</module>
         <module>msb-dongbao-mall-common</module>
         <module>msb-dongbao-manager-web</module>
+        <module>msb-dongbao-generator</module>
     </modules>
 
     <properties>
