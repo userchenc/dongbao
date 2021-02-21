@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MsbDongbaoUmsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MsbDongbaoUmsApplication.class, args);
+		SpringApplication.run(MsbDongbaoUmsApiApplication.class, args);
 	}
 
 }

@@ -27,4 +27,11 @@ public class UmsMemberTest {
         umsMemberMapper.insert(t);
     }
 
+
+    @Test
+    void testUpdate(){
+        UmsMember t = new UmsMember();
+        t.setId(14L);
+        umsMemberMapper.updateById(t);
+    }
 }
